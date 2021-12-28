@@ -76,6 +76,14 @@ chmod +x deploy
 
 ```
 
+## How to use next generation image formats in Hugo
+
+<https://martijnvanvreeden.nl/hugo-shortcode-to-serve-images-in-next-gen-formats/>
+
+## Ananke theme repository
+
+<https://github.com/theNewDynamic/gohugo-theme-ananke/tree/a3dc1ac327c2c8c97e44168db7006b7f3c375917>
+
 ***Happy coding***
 
 

@@ -1,6 +1,9 @@
 ---
 title: "Steal Like an Artist"
 date: 2021-12-28T07:16:43+01:00
+description: "Why do artists need to have a website."
+featured_image: "/images/garage-sale-small.jpg"
+tags: ["internet"]
 draft: false
 ---
 
@@ -16,7 +19,10 @@ __Facebooks__, __Instagrams__ and __Twitters__ of today will become __TikToks__ 
 
 Where do you think will your thoughts and sketches go when all these social networks evaporate in the meltingpot of the forgery of the Mighty Future? 
 
-They will vanish in the thin air and the faint human memory.
+They will vanish in the thin air of the faint human memory.
+
+![Facebook, Instagram and Twitter on garage sale in a trash bin](/images/garage-sale-small.jpg "Garage Sale")
+>*"Garage Sale" - a sketch by Karol Bajrulewicz*
 
 - Do you want this to happen to your legacy?
 - Do you want to be a meaningless piece of trash in the ocean of garbage?
