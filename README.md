@@ -84,6 +84,10 @@ chmod +x deploy
 
 <https://github.com/theNewDynamic/gohugo-theme-ananke/tree/a3dc1ac327c2c8c97e44168db7006b7f3c375917>
 
+# Ananke theme - Tachyons colors
+
+<http://tachyons.io/docs/themes/skins/>
+
 ***Happy coding***
 
 
