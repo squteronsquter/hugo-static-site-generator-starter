@@ -1,4 +1,4 @@
-baseURL = 'htts://www.sketchandblog.com/'
+baseURL = 'https://www.sketchandblog.com/'
 languageCode = 'en-us'
 title = 'Sketch and Blog'
 theme = "ananke"
