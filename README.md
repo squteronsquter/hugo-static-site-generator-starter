@@ -88,6 +88,10 @@ chmod +x deploy
 
 <http://tachyons.io/docs/themes/skins/>
 
+# Hugo theme configuration 
+
+<https://tygerbytes.github.io/wp2hugoref/#05-choose-and-configure-a-theme>
+
 ***Happy coding***
 
 
